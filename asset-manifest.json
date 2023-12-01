@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f855e6bc.css",
-    "main.js": "/react-gh-pages/static/js/main.8a180ac4.js",
-    "static/js/787.4d88937a.chunk.js": "/react-gh-pages/static/js/787.4d88937a.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f855e6bc.css.map": "/react-gh-pages/static/css/main.f855e6bc.css.map",
-    "main.8a180ac4.js.map": "/react-gh-pages/static/js/main.8a180ac4.js.map",
-    "787.4d88937a.chunk.js.map": "/react-gh-pages/static/js/787.4d88937a.chunk.js.map"
+    "main.css": "/form_game/static/css/main.f855e6bc.css",
+    "main.js": "/form_game/static/js/main.2a8c305e.js",
+    "static/js/787.4d88937a.chunk.js": "/form_game/static/js/787.4d88937a.chunk.js",
+    "static/media/logo.svg": "/form_game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/form_game/index.html",
+    "main.f855e6bc.css.map": "/form_game/static/css/main.f855e6bc.css.map",
+    "main.2a8c305e.js.map": "/form_game/static/js/main.2a8c305e.js.map",
+    "787.4d88937a.chunk.js.map": "/form_game/static/js/787.4d88937a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8a180ac4.js"
+    "static/js/main.2a8c305e.js"
   ]
 }
